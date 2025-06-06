@@ -1,0 +1,37 @@
+Cyber Security Internship - Task 7
+
+Task Title: Identify and Remove Suspicious Browser Extensions  
+Platform Used: Kali Linux (Firefox Browser)  
+Date: [Insert Your Date Here]
+
+Objective:
+To identify, review, and remove potentially malicious or unnecessary browser extensions, and to improve awareness about browser extension security.
+
+Steps Performed:
+1. Opened Firefox and navigated to the Add-ons Manager via `about:addons`.
+2. Reviewed all installed extensions.
+3. Focused on analyzing the extension "New Tab Suspender".
+4. Examined its permissions and settings.
+5. Verified its purpose and usage pattern to check for any suspicious activity.
+6. No further suspicious activity found from other extensions.
+7. Saved a screenshot showing the extension's settings page.
+
+Extension Reviewed:
+---------------------
+| Extension Name     | Purpose                                 | Suspicious | Action Taken |
+|--------------------|------------------------------------------|------------|--------------|
+| New Tab Suspender  | Automatically suspends inactive tabs     | No         | Kept         |
+
+Extension Analysis:
+- The extension helps reduce memory usage by suspending unused tabs.
+- It allows customization such as whitelisting and ignoring pinned or audible tabs.
+- Permissions appear limited and acceptable for its functionality.
+- No red flags found during review or online reputation check.
+
+Screenshot Attached:
+- `suspicious extension.png`: Shows the settings/options of the "New Tab Suspender" extension.
+
+Key Learnings:
+- Reviewing browser extensions manually helps detect potential risks early.
+- Even extensions that seem useful must be checked for excessive permissions.
+- Only keep extensions from trusted sources with clear purposes.
